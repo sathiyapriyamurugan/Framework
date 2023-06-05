@@ -1,0 +1,19 @@
+2023-05-04 19:12:35,392  INFO [main] ContactsPageTest:71 - Chrome driver initiated........
+2023-05-04 19:12:35,432  INFO [main] WebEventListener:46 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2023-05-04 19:12:43,683  INFO [main] WebEventListener:26 - Application Launched Successfully
+2023-05-04 19:12:43,695  INFO [main] LoginPage:46 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2023-05-04 19:12:44,535  INFO [main] LoginPage:116 - Browser Terminated
+2023-05-04 19:12:44,535  INFO [main] LoginPage:117 - -----------------------------------------------
+2023-05-04 19:12:45,635  INFO [main] LoginPage:71 - Chrome driver initiated........
+2023-05-04 19:12:45,635  INFO [main] WebEventListener:46 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2023-05-04 19:12:54,028  INFO [main] WebEventListener:32 - Application Launched Successfully
+2023-05-04 19:12:54,028  INFO [main] TestUtil:46 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2023-05-04 19:12:54,028  INFO [main] LoginPage:46 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2023-05-04 19:12:54,045  INFO [main] ContactsPage:46 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2023-05-04 19:12:54,055  INFO [main] DealsPage:46 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2023-05-04 19:13:05,427  INFO [main] HomePage:46 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2023-05-04 19:13:05,445  INFO [main] HomePage:46 - Home Page Title Verified
+2023-05-04 19:13:05,892  INFO [main] HomePage:116 - Browser Terminated
+2023-05-04 19:13:05,892  INFO [main] HomePage:117 - -----------------------------------------------
+2023-05-04 19:13:06,969  INFO [main] HomePage:71 - Chrome driver initiated........
+2023-05-04 19:13:06,972  INFO [main] WebEventListener:46 - Property file path>>>>>>https://classic.crmpro.com/index.html

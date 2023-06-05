@@ -1,0 +1,26 @@
+2023-03-10 08:49:34,513  INFO [main] HomePageTest:71 - Chrome driver initiated........
+2023-03-10 08:49:34,576  INFO [main] WebEventListener:46 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2023-03-10 08:49:42,957  INFO [main] WebEventListener:26 - Application Launched Successfully
+2023-03-10 08:49:42,959  INFO [main] LoginPage:46 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2023-03-10 08:49:43,935  INFO [main] LoginPage:116 - Browser Terminated
+2023-03-10 08:49:43,936  INFO [main] LoginPage:117 - -----------------------------------------------
+2023-03-10 08:49:45,192  INFO [main] LoginPage:71 - Chrome driver initiated........
+2023-03-10 08:49:45,193  INFO [main] WebEventListener:46 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2023-03-10 08:49:53,741  INFO [main] WebEventListener:32 - Application Launched Successfully
+2023-03-10 08:49:53,743  INFO [main] TestUtil:46 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2023-03-10 08:49:53,743  INFO [main] LoginPage:46 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2023-03-10 08:49:53,745  INFO [main] ContactsPage:46 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2023-03-10 08:49:53,748  INFO [main] DealsPage:46 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2023-03-10 08:50:04,293  INFO [main] HomePage:46 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2023-03-10 08:50:04,313  INFO [main] HomePage:46 - Home Page Title Verified
+2023-03-10 08:50:05,085  INFO [main] HomePage:116 - Browser Terminated
+2023-03-10 08:50:05,085  INFO [main] HomePage:117 - -----------------------------------------------
+2023-03-10 08:50:06,312  INFO [main] HomePage:71 - Chrome driver initiated........
+2023-03-10 08:50:06,312  INFO [main] WebEventListener:46 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2023-03-10 08:50:15,055  INFO [main] WebEventListener:26 - Application Launched Successfully
+2023-03-10 08:50:15,056  INFO [main] LoginPage:46 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2023-03-10 08:50:15,126  INFO [main] LoginPage:45 - CRM Logo Verified
+2023-03-10 08:50:15,796  INFO [main] LoginPage:116 - Browser Terminated
+2023-03-10 08:50:15,796  INFO [main] LoginPage:117 - -----------------------------------------------
+2023-03-10 08:50:17,095  INFO [main] LoginPage:71 - Chrome driver initiated........
+2023-03-10 08:50:17,097  INFO [main] WebEventListener:46 - Property file path>>>>>>https://classic.crmpro.com/index.html

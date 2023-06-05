@@ -1,0 +1,6 @@
+2023-03-10 08:51:44,746  INFO [main] ContactsPageTest:71 - Chrome driver initiated........
+2023-03-10 08:51:44,762  INFO [main] WebEventListener:46 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2023-03-10 08:51:53,473  INFO [main] WebEventListener:26 - Application Launched Successfully
+2023-03-10 08:51:53,475  INFO [main] LoginPage:46 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2023-03-10 08:51:54,551  INFO [main] LoginPage:116 - Browser Terminated
+2023-03-10 08:51:54,551  INFO [main] LoginPage:117 - -----------------------------------------------

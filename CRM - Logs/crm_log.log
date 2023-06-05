@@ -1,0 +1,4 @@
+2023-06-01 16:00:36,117  INFO [main] ExtentReportListener:46 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2023-06-01 16:00:36,160  INFO [main] LoginPageTest:46 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2023-06-01 16:00:36,188  INFO [main] HomePageTest:46 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2023-06-01 16:00:36,191  INFO [main] ContactsPageTest:46 - Property file path>>>>>>https://classic.crmpro.com/index.html
