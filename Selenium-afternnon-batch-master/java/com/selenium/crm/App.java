@@ -4,7 +4,7 @@ package com.selenium.crm;
  * Hello world!
  *
  */
-public class App 
+public class java
 {
     public static void main( String[] args )
     {
